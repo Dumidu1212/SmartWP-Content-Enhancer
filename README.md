@@ -36,10 +36,6 @@ README.md       # You're here
 4. Add your OpenAI API key to `.env`
 5. Test rewrite and summarization tools
 
-## 🧪 Demo
-
-![Demo GIF](demo.gif)
-
 ## 📋 License
 
 MIT
