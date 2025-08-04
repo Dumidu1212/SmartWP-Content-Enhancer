@@ -32,11 +32,8 @@ README.md # You're here
 2. Start backend with `uvicorn backend.main:app --reload`  
 3. Connect WordPress frontend via REST API  
 4. Add your OpenAI API key to `.env`  
-5. Test rewrite and summarization tools  
+5. Test rewrite and summarization tools
 
-## 🧪 Demo
-
-![Demo GIF](demo.gif)
 
 ## 📋 License
 
