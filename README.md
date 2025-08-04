@@ -18,13 +18,13 @@ An AI-powered WordPress plugin that integrates with OpenAI to help users rewrite
 - **Optional:** Docker, Firebase for logging  
 
 ## 📁 Folder Structure
-
+```
 /frontend # WordPress JS or Gutenberg block
 /backend # FastAPI server calling OpenAI
 /utils # Prompt templates and helpers
 /logs # Optional: token usage + logs
 README.md # You're here
-
+```
 
 ## 🚀 Getting Started
 
